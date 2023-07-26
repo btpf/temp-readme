@@ -3,8 +3,9 @@
 <div align="center"><a href="/">Download</a> | Website</div>
 <br>
 
-![Homescreen](https://github.com/btpf/temp-readme/assets/61168382/e97d515f-de21-4f93-9bf3-7e189c8a29e4)
-<div align="right">Default Dark & Light Themes</div>
+<div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/de519d0d-df34-422a-b052-34396d35bffe"> </div>
+
+<div align="center">Default Dark & Light Themes</div>
 
 
 ## Main Features:
@@ -31,6 +32,9 @@
 - <img height="18px" width="18px" align="center" src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Purple%20circle/Flat/purple_circle_flat.svg">  Offline Dictionary Support
 
 ## Screenshots:
+<h2 align="center">Default Light & Dark Themes</h2>
+<div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/f7beb3e9-c07e-4988-ad29-421b786cdea7"> </div>
+  
 <h2 align="center">Annotations Popup</h2>
 <div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/f7beb3e9-c07e-4988-ad29-421b786cdea7"> </div>
 
