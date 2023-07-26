@@ -30,6 +30,17 @@
 - 🟡 Split Screen Layout
 - 🟣 Offline Dictionary Support
 
+## Screenshots:
+<h2 align="center">Annotations Popup</h2>
+<div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/f7beb3e9-c07e-4988-ad29-421b786cdea7"> </div>
+
+<h2 align="center">Theme Customizer</h2>
+<div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/2f37a48c-0042-4b2b-9c4e-a1668f4a7255"> </div>
+
+<h2 align="center">Reader Settings</h2>
+<div align="center"><a href="/"> <img align="center" src="https://github.com/btpf/temp-readme/assets/61168382/8198e57e-7140-4e28-9c68-f97554d057a2"> </div>
+
+
 ##### Comparison Table
 
 🟢 = Complete
